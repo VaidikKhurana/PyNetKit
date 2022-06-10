@@ -1,0 +1,13 @@
+Change Log (PyNetKit)
+====================
+8/6/22 '18:50' 
+Version 1.1 
+-Introducing PyNetKit
+=====================
+9/6/22 '19:05'
+Version 1.2
+-Comes with a new feature to calculate numbers.
+-Introducing close_app() function.
+-Presenting lock_computer() function for security purpose.
+-Bug Fixes for the compose_mail() function.
+============================================================
